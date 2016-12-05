@@ -1,0 +1,1 @@
+This repository contains the current version of #.py, as well as documents written supported for/inspired by its creation. This project started out as a scholarship in practice for Digital Humanities.
